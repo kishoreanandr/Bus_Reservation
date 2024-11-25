@@ -117,7 +117,3 @@ Enter 1 to book and 2 to Exit
 - Add price calculation based on AC type and distance.
 
 ---
-
-Author
-Kishore Anand R
----
